@@ -1,18 +1,11 @@
-[![CI](https://github.com/Abdulla-1234/AI-Meeting-Intelligence-Platform/actions/workflows/ci.yml/badge.svg)](https://github.com/Abdulla-1234/AI-Meeting-Intelligence-Platform/actions/workflows/ci.yml)
-[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white)](https://nodejs.org)
-[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev)
-[![Groq](https://img.shields.io/badge/Groq-Llama%203.3-orange)](https://groq.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169E1?logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Redis](https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white)](https://redis.io)
-[![Tests](https://img.shields.io/badge/tests-6%20passing-success)](#run-tests)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 # AI Meeting Intelligence Platform
 
 Upload any meeting recording. AI transcribes it, then 4 parallel LLM agents extract a summary, action items with owners and deadlines, decisions made, and meeting sentiment — all in under 60 seconds.
 
 Built to solve a real problem: post-meeting documentation is manual, inconsistent, and usually skipped entirely. This automates it end to end.
 
+---
+<img width="1191" height="808" alt="image" src="https://github.com/user-attachments/assets/a1dacf65-885b-410b-b23b-9565af2787b9" />
 ---
 
 ## Architecture
@@ -21,6 +14,14 @@ Built to solve a real problem: post-meeting documentation is manual, inconsisten
   <img src="./meeting_platform_architecture_v2.svg" alt="AI Meeting Intelligence Platform Architecture" width="820"/>
 </p>
 
+[![CI](https://github.com/Abdulla-1234/AI-Meeting-Intelligence-Platform/actions/workflows/ci.yml/badge.svg)](https://github.com/Abdulla-1234/AI-Meeting-Intelligence-Platform/actions/workflows/ci.yml)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white)](https://nodejs.org)
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev)
+[![Groq](https://img.shields.io/badge/Groq-Llama%203.3-orange)](https://groq.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169E1?logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white)](https://redis.io)
+[![Tests](https://img.shields.io/badge/tests-6%20passing-success)](#run-tests)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ---
 
 ## Features
